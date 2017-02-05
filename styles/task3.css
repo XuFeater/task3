@@ -10,7 +10,7 @@ html{
 #container {
 	overflow: hidden;
 	width: 100%;
-	max-width:640px;
+	max-width:768px;
 	margin: 0 auto;
 	background-color: #68cdd5;
 }
